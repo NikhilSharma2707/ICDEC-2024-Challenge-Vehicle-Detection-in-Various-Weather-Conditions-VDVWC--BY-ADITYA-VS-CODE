@@ -1,0 +1,6 @@
+train: C:/ML Competition using pycharm/pythonProject1/Train/images
+val: C:/ML Competition using pycharm/pythonProject1/Val/images
+
+nc: 15
+
+names: ['CAR', 'MOTORCYCLE', 'AUTO RICKSHAW', 'CYCLE RICKSHAW', 'SIMPLE CYCLE', 'BUS', 'VAN LUGGAGE CARRIER', 'TRUCK', 'VAN', 'TAXI', 'CARRIER RICKSHAW', 'E-RICKSHAW', 'TRAIN', 'BOAT', 'PEDDLE RICKSHAW']

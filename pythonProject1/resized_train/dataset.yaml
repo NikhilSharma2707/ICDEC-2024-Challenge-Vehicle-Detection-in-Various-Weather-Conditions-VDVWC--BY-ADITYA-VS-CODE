@@ -1,0 +1,6 @@
+# dataset.yaml
+train: C:/ML Competition using pycharm/pythonProject1/Train
+val: C:/ML Competition using pycharm/pythonProject1/Val
+
+nc: 2  # number of classes
+names: ['car', 'truck']  # class names
