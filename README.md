@@ -27,3 +27,11 @@ The project directory is structured as follows:
   
   git clone https://github.com/brucewayneoptimusprime/ICDEC-2024-Challenge-Vehicle-Detection-in-Various-Weather-Conditions-VDVWC--BY-ADITYA-VS-CODE.git
   cd ICDEC-2024-Challenge-Vehicle-Detection-in-Various-Weather-Conditions-VDVWC--BY-ADITYA-VS-CODE/pythonProject1
+
+- Install dependencies:
+
+  ```bash
+  pip install -r yolov5/requirements.txt
+
+- Set up the dataset:
+   Ensure that the images and annotations are properly placed in the Train and Val directories as per the structure mentioned above.
