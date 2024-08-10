@@ -76,3 +76,6 @@ The dataset consists of images labeled under different weather conditions (Rainy
 - BOAT
 - PEDDLE RICKSHAW
   
+## Authors
+- [**Nikhil Sharma**](https://github.com/NikhilSharma2707)
+- [**Aditya Vikram Singh**](https://github.com/brucewayneoptimusprime)
